@@ -1,4 +1,4 @@
 # firdaustry.github.io
 first try
 
-[MY WEBSITE](firdaustry.github.io)
+[I'm an inline-style link](firdaustry.github.io)
