@@ -1,4 +1,4 @@
 # firdaustry.github.io
 first try
 
-[I'm an inline-style link](Firdaus-Muhammad-Akbar.github.io)
+[WEB](firdaus-muhammad-akbar.github.io)
